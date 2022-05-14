@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffffff"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/a"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#DA5F6A"
+        android:gravity="center"
+        android:scaleType="fitCenter"
+        android:text="@string/select_server_region"
+        android:textColor="@android:color/white" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/a">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_sl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layoutDirection="rtl"
+            android:padding="10dp" />
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/lav_loading.."
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            app:lottie_rawRes="@raw/dialog_loding"
+            app:lottie_repeatMode="restart" />
+    </FrameLayout>
+
+
+</RelativeLayout>

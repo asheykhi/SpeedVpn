@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: in.codeshuffle:typewriterview:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/typewriterview-1.1.0.aar/9648a3ff8902d6a7aa67e406a81df702/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/typewriterview-1.1.0.aar/9648a3ff8902d6a7aa67e406a81df702/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/typewriterview-1.1.0.aar/9648a3ff8902d6a7aa67e406a81df702/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

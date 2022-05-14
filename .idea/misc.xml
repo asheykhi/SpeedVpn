@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alish/Desktop/SpeedVpn/SpeedVpn/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alish/Desktop/SpeedVpn/SpeedVpn/src/main/res/layout/bottom.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alish/Desktop/SpeedVpn/SpeedVpn/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alish/Desktop/SpeedVpn/SpeedVpn/src/main/res/layout/dialog_sl.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alish/Desktop/SpeedVpn/SpeedVpn/src/main/res/layout/sl_rows.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alish/Desktop/SpeedVpn/SpeedVpn/src/main/res/menu/main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alish/Desktop/SpeedVpn/SpeedVpn/src/main/res/menu/menu_botton.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alish/Desktop/SpeedVpn/Vpn/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/alish/Desktop/SpeedVpn/Vpn/src/main/res/menu/main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alish/Desktop/SpeedVpn/Vpn/src/main/res/menu/menu_botton.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.joaquimley:faboptions:1.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/faboptions-1.1.2.aar/8124f6c24eb391b0d065d52d13d9a708/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/faboptions-1.1.2.aar/8124f6c24eb391b0d065d52d13d9a708/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/faboptions-1.1.2.aar/8124f6c24eb391b0d065d52d13d9a708/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

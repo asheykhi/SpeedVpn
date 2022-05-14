@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"FULL_SPLIT","splits":[{"filterType":"ABI","value":"x86"}],"versionCode":42,"versionName":"1.0","enabled":true,"filterName":"x86","outputFile":"Vpn-x86-debug.apk","fullName":"x86Debug","baseName":"x86-debug"},"path":"resources-x86Debug.ap_","properties":{"packageId":"ir.alishi.vpn","split":"","minSdkVersion":"23"}}]

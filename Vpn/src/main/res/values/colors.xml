@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#17C7D1</color>
+    <color name="colorPrimaryDark">#8017C7D1</color>
+
+
+    <color name="color_F57C00">#F57C00</color>
+    <color name="color_FF9800">#FF9800</color>
+    <color name="color_connecting">#FFC107</color>
+    <color name="color_FF5722">#FF5722</color>
+
+
+</resources>
